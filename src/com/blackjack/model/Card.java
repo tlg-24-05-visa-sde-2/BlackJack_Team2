@@ -7,4 +7,10 @@ enum Card {
     FOUR_SPADES,
     FIVE_SPADES,
     SIX_SPADES;
+    THREE_SPADES,
+
+    //alice work below:
+    ACE_CLUB,
+    TWO_CLUB,
+    THREE_CLUB;
 }
