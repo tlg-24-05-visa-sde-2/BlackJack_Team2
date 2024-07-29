@@ -1,2 +1,7 @@
-# BlackJack_TeamN
-Practice project based on BlackJack
+Black Jack - Team 2
+
+Members:
+
+Aranka Bullen
+Jasmin Ellis
+Jefferson Khy
